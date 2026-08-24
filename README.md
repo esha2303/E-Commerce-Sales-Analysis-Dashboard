@@ -325,7 +325,7 @@ E-Commerce-Customer-Sales-Analytics/
 │   ├── 02_business_analysis.sql
 │   └── 03_advanced_analysis.sql
 │
-├── powerbi/
+├── power-bi/
 │   └── E-Commerce Customer Sales Analytics.pbix
 │
 ├── dashboard.png
